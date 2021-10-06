@@ -1,4 +1,4 @@
-# AppointmentPlanner
+# Appointment Planner
 
 This is a simple application which allows users to add contacts and then add appointments which any of the said contacts.
 
