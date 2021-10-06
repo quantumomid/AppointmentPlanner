@@ -1,5 +1,5 @@
 import React, {useState} from "react";
-import { Switch, Route, BrowserRouter as Router, NavLink } from "react-router-dom";
+import { Switch, Route, HashRouter as Router, NavLink } from "react-router-dom";
 
 import { AppointmentsPage } from "./containers/AppointmentsPage";
 import { ContactsPage } from "./containers/ContactsPage";
